@@ -1,7 +1,7 @@
 # Theme
 theme: jekyll-theme-minimal
 # Google Analytics
-google_analytics: UA-114243378-
+google_analytics: UA-114243378-7
 # Plugins
 plugins:
   - jekyll-sitemap
