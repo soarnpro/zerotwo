@@ -1,0 +1,10 @@
+
+# Theme
+theme: 
+# Google Analytics
+google_analytics: UA-114243378-
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-seo-tag
