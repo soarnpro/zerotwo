@@ -4,6 +4,8 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/8BFycXmGyP5o6c" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/8BFycXmGyP5o6c" title="r/ZeroTwo" target="_blank">r/ZeroTwo</a> </strong> from <strong><a href="https://soarn.pro/bot" target="_blank">Jack</a></strong> </div>
 </html>
 
+---
+
 <html> 
    <body>
 <p>
