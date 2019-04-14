@@ -1,16 +1,7 @@
 # [r/zerotwo](https://reddit.com/r/zerotwo)
 
 <html>
-<body>
-<style>
-.responsive-wrap iframe{ max-width: 100%;}
-</style>
-<div class="responsive-wrap">
-<!-- this is the embed code provided by Google -->
-    <iframe src="https://docs.google.com/document/d/e/2PACX-1vTHQTJjIkOLykd_eWeb1HyRp4vQzK7SSWdVTzXm-xMgvHcXY474-TxoKrZ6eyrDzjoNjuxVwyQAVeW6/pub?embedded=true"></iframe>
-<!-- Google embed ends -->
-</div>
-</body>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8BFycXmGyP5o6c" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/8BFycXmGyP5o6c" title="r/ZeroTwo" target="_blank">r/ZeroTwo</a> </strong> from <strong><a href="//www.slideshare.net/notJPR" target="_blank">notJPR</a></strong> </div>
 </html>
 
 <html> 
