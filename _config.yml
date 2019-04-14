@@ -7,3 +7,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-seo-tag
+# Theme Settings
+logo: /assets/02-mirror-large.jpg
